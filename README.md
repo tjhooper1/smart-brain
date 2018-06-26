@@ -1,1 +1,3 @@
 # smart-brain
+This is a simple app that allows users to create an account with their email, and once logged in, they can submit photos of faces. The application uses the Clarifai API to detect faces and places a blue box around the coordinates. If a face is detected, the user's rank will increase by one.
+This app was made following a Udemy course by Andrei Neagoie. The course helped solidify concepts like using React, creating a backend API with RESTful practices, connecting to 3rd party APIs, registering and logging in users, authenticating users, creating and connecting to a postgresql database, and much more. I do not claim ownership of the application, however all the code was followed and hand written following the course materials. 
